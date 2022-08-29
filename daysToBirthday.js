@@ -33,4 +33,4 @@ function leap(){
     }
 }   
 
-console.log(days(8, 11));
+console.log(days(9, 8));
